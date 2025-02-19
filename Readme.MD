@@ -10,7 +10,7 @@ Features
 How to Use:- 
 
 Clone the repository:
-git clone https://github.com/your-username/rotating-navigation.git
+git clone https://github.com/SauravAgarwal6/rotating-navigation.git
 Open index.html in your browser.
 Click the menu button to see the rotating effect in action!
 
